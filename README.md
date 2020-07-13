@@ -1,1 +1,1 @@
-# NLP-Specialization-deeplearning.ai-
+Solutions of programming excercise of Natural Language Processing Specialization.
